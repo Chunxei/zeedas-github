@@ -1,7 +1,6 @@
-# freeze
-
-
 # zeedas-github
 
 
 ### tired af
+
+# gemini
