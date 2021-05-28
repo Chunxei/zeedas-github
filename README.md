@@ -15,3 +15,5 @@ harem - 1:51pm
 fewer - 2:14pm
 
 reverie - 2:32pm
+
+clever - 2:33pm
